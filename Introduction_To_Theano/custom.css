@@ -1,0 +1,15 @@
+div.code_cell {
+    #margin-left: 90px;
+}
+
+.rendered_html pre {
+   background: #444;
+   color: #FFF;
+   margin-top: 5px;
+}
+
+.rendered_html pre code {
+   background: #444;
+   color: #FFF;
+}
+
